@@ -4,7 +4,7 @@ var PORT = 8080;
 
 var app = express();
 app.get('/', function(req, res) {
-    res.send('Hello, world\n');
+    res.send('Hello, Docker Hub CI');
 });
 
 app.listen(PORT);
