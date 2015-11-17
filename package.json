@@ -6,6 +6,7 @@
     "author": "James Glenn <jglenn1@gmail.com>",
     "dependencies": {
         "express": "3.2.4",
-        "supertest": "*"
+        "supertest": "*",
+        "mocha": "*"
     }
 }
